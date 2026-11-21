@@ -1,4 +1,4 @@
-# Excel Sales Analysis
+# Retail Sales Analysis Using Microsoft Excel
 
 ## About This Project
 This is my beginner-level Data Analytics project.
