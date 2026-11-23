@@ -52,3 +52,7 @@ This is my beginner-level Data Analytics project. I created this project to prac
 ## About Me
 
 I am a BCA Data Science graduate from Vikrama Simhapuri University (2025), interested in starting my career in Data Analytics.
+
+## Project Screenshot
+
+![Retail Sales Analysis](Retail-Sales-Analysis.png.png)
